@@ -4,7 +4,7 @@ tags: #rust #cli #file-reader
 ![Syntax highlighting example](https://imgur.com/rGsdnDe.png)
 
 ## Install
-### On macOS
+### On macOS ([[brew]])
 ```bash
 brew install bat
 ```

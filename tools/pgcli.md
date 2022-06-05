@@ -2,11 +2,11 @@ Tags: #python #cli #db #postgres #pipx
 # Postgres CLI with autocompletion and syntax highlighting
 
 ## Install
-**pipx**
+**[[pipx]]**
 ```bash
 pipx install pgcli
 ```
-**brew**
+[[brew]]
 ```bash
 brew install pgcli
 ```

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tools/pipx.md",
+            "file": "tools/zsh.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/pipx.md",
+                "file": "tools/zsh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,21 +79,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "6a3456dac8616abb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "a2b3e73ca1869dba",
   "lastOpenFiles": [
-    "tools/pipx.md",
-    "tools/webp-converter-cli.md",
+    "tools/zsh.md",
+    "tools/antigen.md",
+    "tools/dotbot.md",
+    "tools/npx.md",
     "tools/pgcli.md",
+    "tools/brew.md",
     "tools/bat.md",
-    "_templates/tool.md",
-    "Readme.md"
+    "tools/webp-converter-cli.md",
+    "tools/pipx.md",
+    "_templates/tool.md"
   ]
 }
