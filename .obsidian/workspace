@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tools/Readme.md",
+            "file": "Readme.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Readme.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "a2b3e73ca1869dba",
   "lastOpenFiles": [
+    "Readme.md",
     "tools/Readme.md",
     "articles/Readme.md",
     "articles/test.md",
@@ -97,7 +98,6 @@
     "tools/webhook-site.md",
     "tools/webhook.md",
     "tools/noti <wip>.md",
-    "tools/ncdu <wip>.md",
-    "tools/htop <wip>.md"
+    "tools/ncdu <wip>.md"
   ]
 }
