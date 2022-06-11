@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tools/zsh.md",
+            "file": "articles/untangling-microservices.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e9e48a16d2c61a3f",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/zsh.md",
+                "file": "articles/untangling-microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,33 +81,25 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "6a3456dac8616abb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "a2b3e73ca1869dba",
   "lastOpenFiles": [
-    "tools/zsh.md",
-    "tools/antigen.md",
-    "tools/dotbot.md",
-    "tools/npx.md",
-    "tools/pgcli.md",
-    "tools/brew.md",
-    "tools/bat.md",
-    "tools/webp-converter-cli.md",
-    "tools/pipx.md",
-    "_templates/tool.md"
+    "articles/untangling-microservices.md",
+    "tools/webhook-site.md",
+    "tools/webhook.md",
+    "tools/noti <wip>.md",
+    "tools/ncdu <wip>.md",
+    "tools/htop <wip>.md",
+    "tools/fzf <wip>.md",
+    "tools/exa <wip>.md",
+    "tools/micro <wip>.md",
+    "tools/kubectl <wip>.md"
   ]
 }
