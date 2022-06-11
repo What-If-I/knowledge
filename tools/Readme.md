@@ -1,0 +1,1 @@
+Here will be listed tools that I use or liked with small description and installation guide. Most of the tools will be CLI, because who needs UI when you have console.

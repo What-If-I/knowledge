@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "articles/untangling-microservices.md",
+            "file": "tools/Readme.md",
             "mode": "source",
             "source": false
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e9e48a16d2c61a3f",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/untangling-microservices.md",
+                "file": "tools/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,15 +89,15 @@
   },
   "active": "a2b3e73ca1869dba",
   "lastOpenFiles": [
+    "tools/Readme.md",
+    "articles/Readme.md",
+    "articles/test.md",
+    "_templates/article-bookmark.md",
     "articles/untangling-microservices.md",
     "tools/webhook-site.md",
     "tools/webhook.md",
     "tools/noti <wip>.md",
     "tools/ncdu <wip>.md",
-    "tools/htop <wip>.md",
-    "tools/fzf <wip>.md",
-    "tools/exa <wip>.md",
-    "tools/micro <wip>.md",
-    "tools/kubectl <wip>.md"
+    "tools/htop <wip>.md"
   ]
 }
